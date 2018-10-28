@@ -1,7 +1,7 @@
 [submodule "src/llvm"]
 	path = src/llvm
-	url = https://github.com/rust-lang/llvm.git
-	branch = master
+	url = https://github.com/avr-rust/llvm.git
+	branch = avr-rust-llvm-release-8-0-0-v1
 [submodule "src/rust-installer"]
 	path = src/tools/rust-installer
 	url = https://github.com/rust-lang/rust-installer.git
